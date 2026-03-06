@@ -1,1 +1,1 @@
-print("Apple is a fruit")
+print
